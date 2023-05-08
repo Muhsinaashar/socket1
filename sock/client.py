@@ -8,3 +8,5 @@
 
 # print(c.recv(1024).decode())
 
+ffgfg
+tyyhy
